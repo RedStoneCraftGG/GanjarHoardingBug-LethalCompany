@@ -2,19 +2,18 @@
 Replace Hoarding Bug sound into Ganjar Pranowo ("Wong Saya Suka Kok") in Lethal Company
 
 # This mod required
-1. [BepInEx][https://github.com/BepInEx/BepInEx]
+1. [BepInEx](https://github.com/BepInEx/BepInEx)
 
 # Changelog
-1.0.0
-Initial Release
-
-Added "Wong Saya Suka Kok"
-
 1.1.0
-Second Update
+Update  
+  
 
 Added "Ampun Dijeee" as the angry voice
-Added the "Ampun Dijeee" music when the Hoarder Bug is flying [ No breakdance unfortunately :( ]
+
+Added the "Ampun Dijeee" music when the Hoarder Bug is flying 
+
+No breakdance unfortunately :(
 
 
 # Disclaimer

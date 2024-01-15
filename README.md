@@ -9,3 +9,9 @@ Replace Hoarding Bug sound into Ganjar Pranowo ("Wong Saya Suka Kok") in Lethal 
 Initial Release
 
 Added "Wong Saya Suka Kok"
+
+
+# Disclaimer
+Mod ini dibuat hanya sebagai lelucon dan tidak bermaksud untuk menghina atau merendahkan orang/kelompok/lembaga/pihak manapun. Ini terinspirasi oleh mod YippeeMod, dibuat untuk tujuan kreatif dan lucu. Mod ini tidak ada hubungannya dengan politik atau apa pun.
+
+This mod was made only as a joke and is not intended to insult or demean any person/group/institution/party. It is inspired by the YippeeMod mod, created for creative and humorous purposes. This mod has nothing to do with politics or anything else.

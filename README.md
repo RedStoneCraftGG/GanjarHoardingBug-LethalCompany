@@ -22,3 +22,6 @@ This mod was made only as a joke and is not intended to insult or demean any per
 
 # Instalation
 Simply extract the zip file inside the game folder, or copy the dll and other files to ```BepInEx/plugins/```
+
+# Preview
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Wvo5dDUJqhg/0.jpg)](https://www.youtube.com/watch?v=Wvo5dDUJqhg "Goofy Modpack Review")
